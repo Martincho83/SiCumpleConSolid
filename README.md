@@ -1,5 +1,5 @@
-# Código que NO cumple con OCP, ISP y DIP:
-##Explicación de las mejoras:
+# Código que Si cumple con OCP, ISP y DIP:
+## Explicación de las mejoras:
 * OCP (Open/Closed Principle): La clase TransporteService no necesita ser modificada para añadir nuevos tipos de transporte.
   Solo necesita recibir nuevas implementaciones de ITransporte.
 * ISP (Interface Segregation Principle): La interfaz ITransporte solo tiene métodos necesarios para todas las implementaciones de transporte,
