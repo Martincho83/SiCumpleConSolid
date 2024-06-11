@@ -1,0 +1,14 @@
+C:\Users\martin\Downloads\LabSoft\SiCumpleConSolid\SiCumpleConSolid\bin\Debug\net8.0\SiCumpleConSolid.exe
+C:\Users\martin\Downloads\LabSoft\SiCumpleConSolid\SiCumpleConSolid\bin\Debug\net8.0\SiCumpleConSolid.deps.json
+C:\Users\martin\Downloads\LabSoft\SiCumpleConSolid\SiCumpleConSolid\bin\Debug\net8.0\SiCumpleConSolid.runtimeconfig.json
+C:\Users\martin\Downloads\LabSoft\SiCumpleConSolid\SiCumpleConSolid\bin\Debug\net8.0\SiCumpleConSolid.dll
+C:\Users\martin\Downloads\LabSoft\SiCumpleConSolid\SiCumpleConSolid\bin\Debug\net8.0\SiCumpleConSolid.pdb
+C:\Users\martin\Downloads\LabSoft\SiCumpleConSolid\SiCumpleConSolid\obj\Debug\net8.0\SiCumpleConSolid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\martin\Downloads\LabSoft\SiCumpleConSolid\SiCumpleConSolid\obj\Debug\net8.0\SiCumpleConSolid.AssemblyInfoInputs.cache
+C:\Users\martin\Downloads\LabSoft\SiCumpleConSolid\SiCumpleConSolid\obj\Debug\net8.0\SiCumpleConSolid.AssemblyInfo.cs
+C:\Users\martin\Downloads\LabSoft\SiCumpleConSolid\SiCumpleConSolid\obj\Debug\net8.0\SiCumpleConSolid.csproj.CoreCompileInputs.cache
+C:\Users\martin\Downloads\LabSoft\SiCumpleConSolid\SiCumpleConSolid\obj\Debug\net8.0\SiCumpleConSolid.dll
+C:\Users\martin\Downloads\LabSoft\SiCumpleConSolid\SiCumpleConSolid\obj\Debug\net8.0\refint\SiCumpleConSolid.dll
+C:\Users\martin\Downloads\LabSoft\SiCumpleConSolid\SiCumpleConSolid\obj\Debug\net8.0\SiCumpleConSolid.pdb
+C:\Users\martin\Downloads\LabSoft\SiCumpleConSolid\SiCumpleConSolid\obj\Debug\net8.0\SiCumpleConSolid.genruntimeconfig.cache
+C:\Users\martin\Downloads\LabSoft\SiCumpleConSolid\SiCumpleConSolid\obj\Debug\net8.0\ref\SiCumpleConSolid.dll
